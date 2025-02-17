@@ -1,1 +1,1 @@
-2603646 Thapelo Ndlovu
+i have initialised a git repository and properly set it up then created feature/student-details branch .Created 3 files student-info.txt: This file contains my student ID and name. report.md: This file contains a brief report on what i have done in this assignment. index.html site about myself made commits and pushed my files to github lastly i deployed my index.html to github pages.
